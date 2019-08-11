@@ -1,0 +1,56 @@
+h1 {
+  text-align:center;
+  font-size:80px;
+  border-bottom: 2px solid black;
+  padding:50px;
+  background-color: pink;
+  margin:0px;
+}
+#shoes ol{
+  border-right: 2px solid black;
+  width:180px;
+  padding-top:40px;
+  padding-left:20px;
+  line-height:60px;
+  margin:0;
+  background-color:pink;
+  font-style: italic;
+  font-weight: 100;
+  color: white;
+}
+
+.pow{
+  text-align:center;
+}
+#abc {
+  font-size: 40px;
+  text-align:center;
+}
+.book{
+  font-size:40px;
+  text-align: center;
+}
+#shoes{
+  display:grid;
+ grid-template-columns: 200px 1fr
+}
+a{
+  color: white;
+  text-decoration:none;
+}
+#hat{
+  padding-left: 50px;
+  color: black;
+}
+
+.pen{
+  color:white;
+}
+#hat img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#paper{
+  align:left;
+}
